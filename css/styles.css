@@ -1,0 +1,14 @@
+p{
+  color: blue;
+  font-style: italic;
+}
+
+.important{
+  color: red;
+  text-align: center;
+} 
+
+.nonimportant{
+  color: green;
+  font-size: 60%;
+}
